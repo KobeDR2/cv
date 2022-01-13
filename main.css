@@ -1,5 +1,6 @@
 body {
 margin:0;
+line-height:30px;
 }
 
 
@@ -224,7 +225,14 @@ color:#0b7275;
 .text {
 display:inline-block;
 width:500px;
-text-align:center;
+}
+
+.text1 {
+ align-text:left;
+}
+
+.text1 {
+ align-text:right;
 }
 
 
